@@ -31,8 +31,8 @@ namespace EmployeeWage
             {
                 Console.WriteLine("Employee is Present!");
                 Console.WriteLine("Employee is Part Time");
-
             }
+            
 
             else
             {
