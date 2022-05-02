@@ -55,7 +55,6 @@ namespace EmployeeWage
                         emphrs = 0;
                         break;
                     default:
-                        Console.WriteLine("error");
                         break;
                 }
                 workingdays++;
